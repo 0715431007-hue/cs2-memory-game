@@ -4,8 +4,8 @@ body {
 }
 
 .card {
-    background-color: rgb(96, 11, 142);
-    color: white;
+    background-color: purple;
+    color: purple;
     width: 200px;
     height: 300px;
     border-radius: 10px;
